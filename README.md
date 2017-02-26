@@ -13,8 +13,15 @@ IN BOTH Client and server.
 
 ### Installation
 
-Install the dependencies and devDependencies and start the server/Client.
-
+Install the dependencies and devDependencies.
+start client:
+```sh
+$ npm run start
+```
+start server:
+```sh
+$ node app.js
+```
 For production environments...
 
 ```sh
