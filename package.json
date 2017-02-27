@@ -1,5 +1,5 @@
 {
-  "name": "React/Redux/NodeJS-StartKIT",
+  "name": "react-redux-nodejs",
   "version": "1.0.0",
   "description": "Simple starter package for Redux with React  + NodeJS",
   "main": "index.js",
